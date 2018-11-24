@@ -1,0 +1,17 @@
+{
+  "name": "css_day_1",
+  "version": "1.0.0",
+  "description": "CSS Projects",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^1.2.0",
+      "homepage": "https://Heart8reak.github.com/CSS-Day-1",
+    "install": "^0.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Carlos Baez",
+  "license": "ISC"
+}
